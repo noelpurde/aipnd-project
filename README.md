@@ -46,6 +46,8 @@ This project is an AI application for classifying flower species using deep lear
 ## Setup  
 Clone the repository:  
    ```bash  
-   git clone < https://github.com/noelpurde/aipnd-project.git>  
-   cd < https://github.com/noelpurde/aipnd-project.git>
+   git clone https://github.com/noelpurde/aipnd-project.git
+```
+```
+   cd https://github.com/noelpurde/aipnd-project.git
    ```
